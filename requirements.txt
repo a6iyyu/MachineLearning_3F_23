@@ -1,0 +1,6 @@
+NeuroKit2
+polars
+PyPREP
+scikit-learn
+scipy
+wandb
