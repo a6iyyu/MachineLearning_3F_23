@@ -4,4 +4,5 @@ polars
 PyPREP
 scikit-learn
 scipy
+seaborn
 wandb
